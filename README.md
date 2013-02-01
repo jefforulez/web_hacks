@@ -1,4 +1,7 @@
-web_hacks
+web hacks
 =========
 
-random web hacks
+authors
+-------
+
+* jeff o'connell, @jefforulez
